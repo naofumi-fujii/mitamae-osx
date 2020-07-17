@@ -1,5 +1,5 @@
 ---
-user: upamune
+user: naofumi.fujii
 packages:
 - neovim/neovim/neovim
 - tmux
